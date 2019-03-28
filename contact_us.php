@@ -31,7 +31,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 wow fadeIn">
-        <h6>SMOOTH INTERFACE INTERACTION</h6>
+        <!-- <h6>SMOOTH INTERFACE INTERACTION</h6> -->
         <h2 data-text="Contact">Come visit us and say hi!</h2>
       </div>
       <!-- end col-12 -->
