@@ -200,15 +200,25 @@ a bit of luck is enough.</h4> -->
     <!-- end col-12 -->
     <div class="col-lg-2 col-md-3 wow fadeIn">
       <figure>
+        <img src="images/team05.jpg" alt="Image">
+        <figcaption>
+          <small>CEO</small>
+          <h4>Umidjon Mirzamukhamedov</h4>
+        </figcaption>
+      </figure>
+    </div>
+    <!-- end col-2 -->
+    <div class="col-lg-2 col-md-3 wow fadeIn" data-wow-delay="0.05s">
+      <figure>
        <img src="images/team04.jpg" alt="Image">
        <figcaption>
-        <small>CEO</small>
-        <h4>Lazizjon Abdulazizov</h4>
-      </figcaption>
-    </figure>
-  </div>
-  <!-- end col-2 -->
-  <div class="col-lg-2 col-md-3 wow fadeIn" data-wow-delay="0.05s">
+         <small>CFO</small>
+         <h4>Lazizjon Abdulazizov</h4>
+       </figcaption>
+     </figure>
+   </div>
+   <!-- end col-2 -->
+   <div class="col-lg-2 col-md-3 wow fadeIn" data-wow-delay="0.10s">
     <figure>
      <img src="images/team04.jpg" alt="Image">
      <figcaption>
@@ -218,17 +228,7 @@ a bit of luck is enough.</h4> -->
    </figure>
  </div>
  <!-- end col-2 -->
- <div class="col-lg-2 col-md-3 wow fadeIn" data-wow-delay="0.10s">
-  <figure>
-   <img src="images/team04.jpg" alt="Image">
-   <figcaption>
-     <small>CEO</small>
-     <h4>Lazizjon Abdulazizov</h4>
-   </figcaption>
- </figure>
-</div>
-<!-- end col-2 -->
-<div class="col-lg-2 col-md-3 wow fadeIn" data-wow-delay="0.15s">
+ <div class="col-lg-2 col-md-3 wow fadeIn" data-wow-delay="0.15s">
   <figure>
    <img src="images/team04.jpg" alt="Image">
    <figcaption>
