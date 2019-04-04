@@ -15,7 +15,7 @@
                   <div class="container">
                     <div class="row"> <div class="col-md-4">
                       <address>
-                        Mavlon Riyoziy Street No : 81<br>
+                        Yangibazarnaya street No: 1,<br>
                         Tashkent – Uzbekistan
                       </address>
                     </div>
@@ -74,7 +74,7 @@
             <script src="js/fancybox.min.js"></script> 
             <script src="js/app.js"></script>
             <script src="js/scripts.js"></script>
-            <script src="js/deadline.js" type="text/javascript"></script>
+            <!-- <script src="js/deadline.js" type="text/javascript"></script> -->
 
             <script  id="vertex-shader" type="x-shader/x-vertex">
              vec4 mod289(vec4 x)

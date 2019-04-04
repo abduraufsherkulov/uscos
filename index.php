@@ -26,8 +26,8 @@
 							<!-- <h6>Transitions for a collected experiences</h6> -->
 						</div>
 						<!-- end tagline -->
-						<h1>High<br>
-							<span>Quality</span></h1>
+						<h1>High Quality<br>
+							<span>Distribution</span></h1>
 <!-- 							<div class="slide-btn"> <a href="#">
 								<div class="lines"> <span></span> <span></span> </div>
 								<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -143,7 +143,7 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>01</small><span></span></div>
 					<!-- end left -->
 					<div class="right">
-						<h4>GOLDEN AND GIANT RAISINS</h4>
+						<h4>CONFECTIONERY PRODUCTS</h4>
 					</div>
 					<!-- end right --> 
 				</div>
@@ -155,7 +155,7 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>02</small><span></span></div>
 					<!-- end left -->
 					<div class="right">
-						<h4>DRIED AND NATURAL DRIED APRICOTS</h4>
+						<h4>FOOD AND NON-FOOD PRODUCTS</h4>
 					</div>
 					<!-- end right --> 
 				</div>
@@ -167,7 +167,7 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>03</small><span></span></div>
 					<!-- end left -->
 					<div class="right">
-						<h4>PRUNES</h4>
+						<h4>DRIED FRUITS</h4>
 					</div>
 					<!-- end right --> 
 				</div>
@@ -176,46 +176,6 @@ a bit of luck is enough.</h4> -->
 			<!-- end col-4 --> 
 		</div>
 		<!-- end row --> 
-
-		<div class="row">
-			<!-- end col-12 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0s">
-				<div class="content-box">
-					<div class="left"><small>04</small><span></span></div>
-					<!-- end left -->
-					<div class="right">
-						<h4>DRIED WHITE MULBERRIES</h4>
-					</div>
-					<!-- end right --> 
-				</div>
-				<!-- end content-box --> 
-			</div>
-			<!-- end col-4 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
-				<div class="content-box">
-					<div class="left"><small>05</small><span></span></div>
-					<!-- end left -->
-					<div class="right">
-						<h4>ALMONDS</h4>
-					</div>
-					<!-- end right --> 
-				</div>
-				<!-- end content-box --> 
-			</div>
-			<!-- end col-4 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0.10s">
-				<div class="content-box">
-					<div class="left"><small>06</small><span></span></div>
-					<!-- end left -->
-					<div class="right">
-						<h4>PAPER SHELL ALMONDS</h4>
-					</div>
-					<!-- end right --> 
-				</div>
-				<!-- end content-box --> 
-			</div>
-			<!-- end col-4 --> 
-		</div>
 	</div>
 	<!-- end container --> 
 </section>

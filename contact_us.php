@@ -39,7 +39,7 @@
       	<address>
       		<b>Address</b>
       		<p>
-            Mavlon Riyoziy Street No : 81<br>
+            Yangibazarnaya street No: 1,<br>
             Tashkent – Uzbekistan
           </p>
         </address>
@@ -75,12 +75,12 @@
         <form class="row inner" id="contact" name="contact" method="post">
           <div class="form-group col-sm-6 col-12">
             <label><span>Your name</span></label>
-            <input type="text" name="name" id="name" required>
+            <input type="text" name="first_name" id="name" required>
           </div>
           <!-- end form-group -->
           <div class="form-group col-sm-6 col-12">
             <label><span>Your surname</span></label>
-            <input type="text" name="surname" id="surname" required>
+            <input type="text" name="last_name" id="surname" required>
           </div>
           <!-- end form-group -->
           <div class="form-group col-sm-6 col-12">
