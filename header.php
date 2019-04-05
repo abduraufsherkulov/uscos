@@ -1,7 +1,7 @@
 <?php 
 if(isset($_POST['submit'])){
-require 'PHPMailerAutoload.php';
-   
+	require 'PHPMailerAutoload.php';
+
 $to = "sales@uscos.uz"; // this is your Email address
 $from = $_POST['email']; // this is the sender's Email address
 $first_name = $_POST['first_name'];
@@ -38,12 +38,12 @@ $mail->Body    = $message;
 //$mail->AltBody = $message;
 
 if(!$mail->send()) {
-    echo 'Message could not be sent.';
-    echo 'Mailer Error: ' . $mail->ErrorInfo;
+	echo 'Message could not be sent.';
+	echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
-    echo "<script type='text/javascript'>";
-echo "alert('Thank you for your interest! We will get back you soon!');";
-echo "</script>";
+	echo "<script type='text/javascript'>";
+	echo "alert('Thank you for your interest! We will get back you soon!');";
+	echo "</script>";
 }
 }
 ?>
@@ -140,7 +140,7 @@ echo "</script>";
 		<nav class="navbar">
 			<div class="left"> <a href="direction.php"></a> </div>
 			<!-- end left -->
-			<div class="logo"> <a href="index.php"><img src="images/logo.png" alt="Image"></a> </div>
+			<div class="logo"> <a style="display: flex; align-items: center; text-decoration: none;" href="index.php"><img style="margin-right: 12px;" src="images/logo.png" alt="Image"><h2 class="d-none d-sm-block" style="margin: 0px;">USCOS</h2></a> </div>
 			<!-- end logo -->
 			<div class="right">
 				<ul class="language">
