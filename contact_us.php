@@ -48,8 +48,8 @@
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
       	<address>
       		<b>Phone</b>
-      		<p>+993 93 329 99 39<br>
-            +993 93 329 99 39
+      		<p>+998 71 200 74 00<br>
+            +998 90 374 81 11
           </p>
         </address>
       </div>

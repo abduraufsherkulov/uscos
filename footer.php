@@ -2,8 +2,8 @@
                 <div class="footer-quote wow fadeIn">
                   <div class="container">
                     <div class="row">
-                      <div class="col-lg-8"> <img src="images/logo.png" alt="Image">
-                        <!-- <h2>Let's create the flexible website for your business ?</h2> -->
+                      <div class="col-lg-8" style="display: flex; align-items: center;"> <img style="margin: 0px; margin-right: 22px;" src="images/logo.png" alt="Image">
+                         <h2>USCOS</h2> 
                       </div>
                     </div>
                     <!-- end row --> 
@@ -22,8 +22,8 @@
                     <!-- end col-4 -->
                     <div class="col-md-4">
                       <address>
-                        +998 93 329 99 39<br>
-                        +998 93 329 99 39
+                        +998 71 200 74 00<br>
+                        +998 90 374 81 11
                       </address>
                     </div>
                     <!-- end col-4 -->

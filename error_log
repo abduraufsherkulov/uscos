@@ -1,0 +1,16 @@
+[04-Apr-2019 15:11:51 Asia/Tashkent] PHP Warning:  mail() has been disabled for security reasons in /home/uscosuz1/public_html/header.php on line 14
+[04-Apr-2019 15:11:51 Asia/Tashkent] PHP Warning:  mail() has been disabled for security reasons in /home/uscosuz1/public_html/header.php on line 15
+[04-Apr-2019 15:33:27 Asia/Tashkent] PHP Notice:  Undefined index: email in /home/uscosuz1/public_html/header.php on line 5
+[04-Apr-2019 15:33:27 Asia/Tashkent] PHP Notice:  Undefined index: first_name in /home/uscosuz1/public_html/header.php on line 6
+[04-Apr-2019 15:33:27 Asia/Tashkent] PHP Notice:  Undefined index: last_name in /home/uscosuz1/public_html/header.php on line 7
+[04-Apr-2019 15:33:27 Asia/Tashkent] PHP Notice:  Undefined index: subject in /home/uscosuz1/public_html/header.php on line 8
+[04-Apr-2019 15:33:27 Asia/Tashkent] PHP Notice:  Undefined index: message in /home/uscosuz1/public_html/header.php on line 9
+[04-Apr-2019 15:34:44 Asia/Tashkent] PHP Notice:  Undefined index: email in /home/uscosuz1/public_html/header.php on line 5
+[04-Apr-2019 15:34:44 Asia/Tashkent] PHP Notice:  Undefined index: first_name in /home/uscosuz1/public_html/header.php on line 6
+[04-Apr-2019 15:34:44 Asia/Tashkent] PHP Notice:  Undefined index: last_name in /home/uscosuz1/public_html/header.php on line 7
+[04-Apr-2019 15:34:44 Asia/Tashkent] PHP Notice:  Undefined index: subject in /home/uscosuz1/public_html/header.php on line 8
+[04-Apr-2019 15:34:44 Asia/Tashkent] PHP Notice:  Undefined index: message in /home/uscosuz1/public_html/header.php on line 9
+[04-Apr-2019 17:04:43 Asia/Tashkent] PHP Notice:  Undefined variable: email in /home/uscosuz1/public_html/header.php on line 25
+[04-Apr-2019 17:05:53 Asia/Tashkent] PHP Notice:  Undefined variable: email in /home/uscosuz1/public_html/header.php on line 25
+[04-Apr-2019 17:07:41 Asia/Tashkent] PHP Notice:  Undefined variable: email in /home/uscosuz1/public_html/header.php on line 25
+[04-Apr-2019 17:14:44 Asia/Tashkent] PHP Notice:  Undefined variable: email in /home/uscosuz1/public_html/header.php on line 25

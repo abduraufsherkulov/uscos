@@ -1,20 +1,50 @@
 <?php 
 if(isset($_POST['submit'])){
-    $to = "abduraufsherkulov@gmail.com"; // this is your Email address
-    $from = $_POST['email']; // this is the sender's Email address
-    $first_name = $_POST['first_name'];
-    $last_name = $_POST['last_name'];
-    $subject = $_POST['subject'];
-    $subject2 = "Copy of your form submission";
-    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
-    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
+require 'PHPMailerAutoload.php';
+   
+$to = "sales@uscos.uz"; // this is your Email address
+$from = $_POST['email']; // this is the sender's Email address
+$first_name = $_POST['first_name'];
+$last_name = $_POST['last_name'];
+$subject = $_POST['subject'];
+$message = $_POST['message'];
 
-    $headers = "From:" . $from;
-    $headers2 = "From:" . $to;
-    mail($to,$subject,$message,$headers);
-    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
-    echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
-    // You can also use header('Location: thank_you.php'); to redirect to another page.
+
+$mail = new PHPMailer;
+
+// $mail->SMTPDebug = 3;                               // Включить подробный вывод отладки
+
+$mail->isSMTP();                                      // Указываем что используем SMTP
+$mail->Host = 'server2.ahost.uz';  // Укажите SMTP Сервер
+$mail->SMTPAuth = true;                               // Включение проверки подлинности SMTP
+$mail->Username = 'contact@uscos.uz';              // Логин почтового ящика
+$mail->Password = 'xH5~-[rvR^xD';                     // Пароль 
+$mail->SMTPSecure = 'tls';                            // Указываем какое подключение используем TLS или SSL в нашем случае SSL
+$mail->Port = 125;                                    // Порт для SSL - 465, TLS 587.
+
+$mail->setFrom('contact@uscos.uz', $email);
+$mail->addAddress($to, $last_name);     // Добавить получателя
+// $mail->addAddress('ellen@example.com');               // Дальше все понятно.
+// $mail->addReplyTo('info@example.com', 'Information');
+// $mail->addCC('cc@example.com');
+// $mail->addBCC('bcc@example.com');
+
+// $mail->addAttachment('/var/tmp/file.tar.gz');         // Добавим вложения если нет, то просто комментируем
+// $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Тоже самое
+//$mail->isHTML(true);                                  // Разрешаем передавать HTML
+
+$mail->Subject = $subject;
+$mail->Body    = $message;
+//$mail->AltBody = $message;
+
+if(!$mail->send()) {
+    echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+} else {
+    echo "<script type='text/javascript'>";
+echo "alert('Thank you for your interest! We will get back you soon!');";
+echo "</script>";
+}
 }
 ?>
 <!doctype html>
