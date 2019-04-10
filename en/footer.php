@@ -2,7 +2,7 @@
                 <div class="footer-quote wow fadeIn">
                   <div class="container">
                     <div class="row">
-                      <div class="col-lg-8" style="display: flex; align-items: center;"> <img style="margin: 0px; margin-right: 22px;" src="images/logo.png" alt="Image">
+                      <div class="col-lg-8" style="display: flex; align-items: center;"> <img style="margin: 0px; margin-right: 22px;" src="../images/logo.png" alt="Image">
                        <h2>USCOS</h2> 
                      </div>
                    </div>
@@ -15,8 +15,8 @@
                 <div class="container">
                   <div class="row"> <div class="col-md-4">
                     <address>
-                      Улице Янгибазарная № 1,<br>
-                      Ташкент – Узбекистан
+                      Yangibazarnaya street No: 1,<br>
+                      Tashkent – Uzbekistan
                     </address>
                   </div>
                   <!-- end col-4 -->
@@ -44,7 +44,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-lg-8">
-                    <h5>Связаться с нами</h5>
+                    <h5>Connect with us </h5>
                     <ul>
                       <li><a href="#">Facebook</a></li>
                       <li><a href="#">Instagram</a></li>
@@ -64,16 +64,16 @@
           <!-- <audio id="hamburger-hover" src="audio/link.mp3" preload="auto"></audio> -->
 
           <!-- JS FILES --> 
-          <script src="js/jquery.min.js"></script> 
-          <script src="js/bootstrap.min.js"></script> 
-          <script src="js/swiper.min.js"></script> 
-          <script src="js/tilt.jquery.js"></script> 
-          <script src="js/wow.min.js"></script> 
-          <script src="js/odometer.min.js"></script> 
-          <script src="js/jquery.typewriter.js"></script> 
-          <script src="js/fancybox.min.js"></script> 
-          <script src="js/app.js"></script>
-          <script src="js/script_ru.js"></script>
+          <script src="../js/jquery.min.js"></script> 
+          <script src="../js/bootstrap.min.js"></script> 
+          <script src="../js/swiper.min.js"></script> 
+          <script src="../js/tilt.jquery.js"></script> 
+          <script src="../js/wow.min.js"></script> 
+          <script src="../js/odometer.min.js"></script> 
+          <script src="../js/jquery.typewriter.js"></script> 
+          <script src="../js/fancybox.min.js"></script> 
+          <script src="../js/app.js"></script>
+          <script src="../js/scripts.js"></script>
           <!-- <script src="js/deadline.js" type="text/javascript"></script> -->
 
           <script  id="vertex-shader" type="x-shader/x-vertex">
@@ -187,8 +187,8 @@
      gl_FragColor = gl_FragColor * texture2D( texture, gl_PointCoord );
    }
  </script>
- <script src='js/three.min.js'></script>
- <script  src="js/particles.js"></script>
+ <script src='../js/three.min.js'></script>
+ <script  src="../js/particles.js"></script>
 
 </body>
 </html>

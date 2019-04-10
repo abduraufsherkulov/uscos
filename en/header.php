@@ -42,7 +42,7 @@ if(!$mail->send()) {
 	echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
 	echo "<script type='text/javascript'>";
-	echo "alert('Спасибо за Ваш интерес! Мы скоро вам ответим!');";
+	echo "alert('Thank you for your interest! We will get back you soon!');";
 	echo "</script>";
 }
 }
@@ -80,16 +80,16 @@ if(!$mail->send()) {
 	<link href="ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon" sizes="114x114">
 	<link href="ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
 	<link href="ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon"> -->
-	<link href="ico/favicon.png" rel="shortcut icon">
+	<link href="../ico/favicon.png" rel="shortcut icon">
 
 	<!-- CSS FILES -->
-	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/odometer.min.css">
-	<link rel="stylesheet" href="css/fancybox.min.css">
-	<link rel="stylesheet" href="css/swiper.min.css">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="../css/animate.min.css">
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+	<link rel="stylesheet" href="../css/odometer.min.css">
+	<link rel="stylesheet" href="../css/fancybox.min.css">
+	<link rel="stylesheet" href="../css/swiper.min.css">
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 	<div class="preloader">
@@ -98,7 +98,7 @@ if(!$mail->send()) {
 		<div class="layer"></div>
 		<div class="layer"></div>
 		<div class="inner" data-tilt data-tilt-perspective="2000">
-			<figure class="fadeInUp animated"> <img src="images/preloader.gif" alt="Image"> </figure>
+			<figure class="fadeInUp animated"> <img src="../images/preloader.gif" alt="Image"> </figure>
 			<span class="typewriter" id="typewriter"></span> </div>
 			<!-- end inner --> 
 		</div>
@@ -116,7 +116,7 @@ if(!$mail->send()) {
 			<div class="inner" data-tilt data-tilt-perspective="2000">
 				<div class="menu">
 					<ul>
-						<li><a href="index.php">ГЛАВНАЯ</a>
+						<li><a href="index.php">HOME</a>
 <!-- 							<ul>
 								<li><a href="index-2.php">Slider</a></li>
 								<li><a href="index-video.php">Video</a></li>
@@ -125,10 +125,10 @@ if(!$mail->send()) {
 								<li><a href="news.php">NEWS</a></li>
 							</ul> -->
 						</li>
-						<li><a href="services.php">СЕРВИСЫ</a></li>
-						<li><a href="about_us.php">О НАС</a></li>
-						<li><a href="FAQs.php">ЧЗВ</a></li>
-						<li><a href="contact_us.php">СВЯЗАТЬСЯ С НАМИ</a></li>
+						<li><a href="services.php">SERVICES</a></li>
+						<li><a href="about_us.php">ABOUT US</a></li>
+						<li><a href="FAQs.php">FAQS</a></li>
+						<li><a href="contact_us.php">CONTACT US</a></li>
 					</ul>
 				</div>
 				<!-- end menu -->
@@ -140,14 +140,14 @@ if(!$mail->send()) {
 		<nav class="navbar">
 			<div class="left"> <a href="direction.php"></a> </div>
 			<!-- end left -->
-			<div class="logo"> <a style="display: flex; align-items: center; text-decoration: none;" href="index.php"><img style="margin-right: 12px;" src="images/logo.png" alt="Image"><h2 class="d-none d-sm-block" style="margin: 0px;">USCOS</h2></a> </div>
+			<div class="logo"> <a style="display: flex; align-items: center; text-decoration: none;" href="index.php"><img style="margin-right: 12px;" src="../images/logo.png" alt="Image"><h2 class="d-none d-sm-block" style="margin: 0px;">USCOS</h2></a> </div>
 			<!-- end logo -->
 			<div class="right">
 				<ul class="language">
-					<li><a href="en/index.php">EN</a></li>
-					<li><a href="index.php">RU</a></li>
+					<li><a href="index.php">EN</a></li>
+					<li><a href="../index.php">RU</a></li>
 				</ul>
-				<div class="hamburger-menu"><b>МЕНЮ</b>
+				<div class="hamburger-menu"><b>MENU</b>
 					<div class="hamburger" id="hamburger-menu"> <span></span> <span></span> <span></span> </div>
 				</div>
 				<!-- end hamburger-menu --> 

@@ -1,11 +1,11 @@
 <?php include "header.php"; ?>
 <header class="page-header">
   <div class="video-bg">
-    <video src="videos/video2.mp4" muted loop autoplay></video>
+    <video src="../videos/video2.mp4" muted loop autoplay></video>
   </div>
   <!-- end video-bg -->
   <div class="container">
-  	<h1>СВЯЗАТЬСЯ С НАМИ</h1>
+  	<h1>CONTACT US</h1>
   	<!-- <p>TO CREATE A POWERFUL PROJECT ONCE, A BIT OF LUCK IS ENOUGH</p> -->
   </div>
   <!-- end container -->
@@ -17,7 +17,7 @@
     </ul>
   </aside>
   <!-- end left-side -->
-  <div class="scroll-down"><small>ПРОКРУТИТЕ ВНИЗ</small><span></span></div>
+  <div class="scroll-down"><small>SCROLL DOWN</small><span></span></div>
   <!-- end scroll-down -->
 <!--   <div class="sound"> <span> SOUND </span>
     <div class="equalizer">
@@ -32,22 +32,22 @@
     <div class="row">
       <div class="col-12 wow fadeIn">
         <!-- <h6>SMOOTH INTERFACE INTERACTION</h6> -->
-        <h2 data-text="Адрес">Приезжайте к нам!</h2>
+        <h2 data-text="Contact">Come visit us and say hi!</h2>
       </div>
       <!-- end col-12 -->
       <div class="col-md-4 wow fadeIn">
       	<address>
-      		<b>Адрес</b>
+      		<b>Address</b>
       		<p>
-            Улице Янгибазарная № 1,<br>
-            Ташкент – Узбекистан
+            Yangibazarnaya street No: 1,<br>
+            Tashkent – Uzbekistan
           </p>
         </address>
       </div>
       <!-- end col-4 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
       	<address>
-      		<b>Телефон</b>
+      		<b>Phone</b>
       		<p>+998 71 200 74 00<br>
             +998 90 374 81 11
           </p>
@@ -56,7 +56,7 @@
       <!-- end col-4 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.10s">
       	<address>
-      		<b>Эл. почта</b>
+      		<b>Phone</b>
           <a href="#">info@uscos.uz</a><br />
           <a href="#">sales@uscos.uz</a>   
         </address>
@@ -74,39 +74,39 @@
       <div class="col-lg-6 wow fadeIn" data-wow-delay="0.05s">
         <form class="row inner" id="contact" name="contact" method="post">
           <div class="form-group col-sm-6 col-12">
-            <label><span>Имя</span></label>
+            <label><span>Your name</span></label>
             <input type="text" name="first_name" id="name" required>
           </div>
           <!-- end form-group -->
           <div class="form-group col-sm-6 col-12">
-            <label><span>Фамилия</span></label>
+            <label><span>Your surname</span></label>
             <input type="text" name="last_name" id="surname" required>
           </div>
           <!-- end form-group -->
           <div class="form-group col-sm-6 col-12">
-            <label><span>Эл. почта</span></label>
+            <label><span>Your e-mail</span></label>
             <input type="text" name="email" id="email" required>
           </div>
           <!-- end form-group -->
           <div class="form-group col-sm-6 col-12">
-            <label><span>Тема</span></label>
+            <label><span>Subject</span></label>
             <input type="text" name="subject" id="subject" required>
           </div>
           <!-- end form-group -->
           <div class="form-group col-12">
-            <label><span>Сообщение</span></label>
+            <label><span>Your message</span></label>
             <textarea name="message" id="message" required></textarea>
           </div>
           <!-- end form-group -->
           <div class="form-group col-12">
-            <button id="submit" type="submit" name="submit">ОТПРАВИТЬ</button>
+            <button id="submit" type="submit" name="submit">SUBMIT</button>
           </div>
           <!-- end form-group -->
         </form>
         <!-- end form --> 
-        <div id="success" class="alert alert-success" role="alert"> Ваше сообщение было успешно отправлено! Мы будем на связи, как только сможем. </div>
+        <div id="success" class="alert alert-success" role="alert"> Your message was sent successfully! We will be in touch as soon as we can. </div>
         <!-- end success -->
-        <div id="error" class="alert alert-danger" role="alert"> Что-то пошло не так, попробуйте обновить и отправить форму еще раз. </div>
+        <div id="error" class="alert alert-danger" role="alert"> Something went wrong, try refreshing and submitting the form again. </div>
         <!-- end error --> 
       </div>
       <!-- end col-6 -->
