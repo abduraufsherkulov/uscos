@@ -140,7 +140,12 @@ if(!$mail->send()) {
 		<nav class="navbar">
 			<div class="left"> <a href="direction.php"></a> </div>
 			<!-- end left -->
-			<div class="logo"> <a style="display: flex; align-items: center; text-decoration: none;" href="index.php"><img style="margin-right: 12px;" src="../images/logo.png" alt="Image"><h2 class="d-none d-sm-block" style="margin: 0px;">USCOS</h2></a> </div>
+			<div class="logo"> <a style="display: flex; align-items: center; text-decoration: none;" href="index.php"><img style="margin-right: 12px;" src="../images/logo.png" alt="Image"><h2 class="d-none d-sm-block" style="    margin: 0px;
+			font-size: 3vw;
+			font-weight: 800;
+			margin-bottom: 0;
+			color: #01f7b6;
+			font-family: 'Poppins', sans-serif;">USCOS</h2></a> </div>
 			<!-- end logo -->
 			<div class="right">
 				<ul class="language">
