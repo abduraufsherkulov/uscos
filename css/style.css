@@ -1591,6 +1591,12 @@
     font-size: 17px;
     margin-bottom: 30px;
   }
+  .services-content-block a {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 17px;
+    margin-bottom: 30px;
+    color: #fff;
+  }
   .services-content-block ul {
     padding-left: 20px;
     margin-bottom: 0;
@@ -1707,7 +1713,7 @@
   }
   .works .project-box .content-box .inner h3 span {
     display: block;
-    font-size: 8vw;
+    font-size: 5vw;
     color: #01f7b6;
     margin-left: -7vw;
   }
@@ -2892,7 +2898,7 @@
 
     .works .project-box .content-box .inner h3 span {
       margin-left: 0;
-      font-size: 12vw;
+      font-size: 8vw;
     }
 
     .services-content-block .col-md-4:nth-child(3) {

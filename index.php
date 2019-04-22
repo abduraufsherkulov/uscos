@@ -143,7 +143,7 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>01</small><span></span></div>
 					<!-- end left -->
 					<div class="right">
-						<h4>КОНДИТЕРСКИЕ ИЗДЕЛИЯ</h4>
+						<a href="candy.php">КОНДИТЕРСКИЕ ИЗДЕЛИЯ</a>
 					</div>
 					<!-- end right --> 
 				</div>
