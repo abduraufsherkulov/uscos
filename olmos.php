@@ -43,15 +43,15 @@
       <div class="col-12">
 
         <div class="project-box wow fadeIn" data-bg="#ece6f4">
-          <figure> <a href="images/marg1.jpg" data-fancybox><img src="images/marg1.jpg" alt="Image"></a></figure>
+          <figure> <a href="images/margg.png" data-fancybox><img src="images/margg.png" alt="Image"></a></figure>
           <div class="content-box">
             <div class="inner"> 
               <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-              <h3><span>Жир</span>кондитерский</h3>
+              <h3><span>Маргарин </span>“Olmos”</h3>
               <div class="custom-link"> <a href="#">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
-                <b>В упаковке 20 кг. Срок годности: 180 дней</b></a> </div>
+                <b>Массовая доля жира 82%. В упаковке 200 гр. Срок годности: 180 дней</b></a> </div>
                 <!-- end custom-link --> 
               </div>
               <!-- end inner --> 
@@ -59,15 +59,15 @@
             <!-- end content-box --> 
           </div>
           <div class="project-box wow fadeIn" data-bg="#ece6f4">
-            <figure> <a href="images/marg2.jpg" data-fancybox><img src="images/marg2.jpg" alt="Image"></a></figure>
+            <figure> <a href="images/marg1.jpg" data-fancybox><img src="images/marg1.jpg" alt="Image"></a></figure>
             <div class="content-box">
               <div class="inner"> 
                 <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-                <h3><span>Маргарин </span>“Olmos”</h3>
+                <h3><span>Жир</span>кондитерский</h3>
                 <div class="custom-link"> <a href="#">
                   <div class="lines"> <span></span> <span></span> </div>
                   <!-- end lines --> 
-                  <b>Массовая доля жира 62%. В упаковке 10 кг.   Срок годности: 180 дней</b></a> </div>
+                  <b>В упаковке 20 кг. Срок годности: 180 дней</b></a> </div>
                   <!-- end custom-link --> 
                 </div>
                 <!-- end inner --> 
@@ -75,7 +75,7 @@
               <!-- end content-box --> 
             </div>
             <div class="project-box wow fadeIn" data-bg="#ece6f4">
-              <figure> <a href="images/marg3.jpg" data-fancybox><img src="images/marg3.jpg" alt="Image"></a></figure>
+              <figure> <a href="images/marg2.jpg" data-fancybox><img src="images/marg2.jpg" alt="Image"></a></figure>
               <div class="content-box">
                 <div class="inner"> 
                   <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
@@ -83,7 +83,7 @@
                   <div class="custom-link"> <a href="#">
                     <div class="lines"> <span></span> <span></span> </div>
                     <!-- end lines --> 
-                    <b>Массовая доля жира 72%. В упаковке 10 кг. Срок годности: 180 дней</b></a> </div>
+                    <b>Массовая доля жира 62%. В упаковке 10 кг.   Срок годности: 180 дней</b></a> </div>
                     <!-- end custom-link --> 
                   </div>
                   <!-- end inner --> 
@@ -99,7 +99,7 @@
                     <div class="custom-link"> <a href="#">
                       <div class="lines"> <span></span> <span></span> </div>
                       <!-- end lines --> 
-                      <b>Массовая доля жира 82%. В упаковке 10 кг. Срок годности: 180 дней</b></a> </div>
+                      <b>Массовая доля жира 72%. В упаковке 10 кг. Срок годности: 180 дней</b></a> </div>
                       <!-- end custom-link --> 
                     </div>
                     <!-- end inner --> 
@@ -107,7 +107,7 @@
                   <!-- end content-box --> 
                 </div>
                 <div class="project-box wow fadeIn" data-bg="#ece6f4">
-                  <figure> <a href="images/margg.png" data-fancybox><img src="images/margg.png" alt="Image"></a></figure>
+                  <figure> <a href="images/marg3.jpg" data-fancybox><img src="images/marg3.jpg" alt="Image"></a></figure>
                   <div class="content-box">
                     <div class="inner"> 
                       <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
@@ -115,7 +115,7 @@
                       <div class="custom-link"> <a href="#">
                         <div class="lines"> <span></span> <span></span> </div>
                         <!-- end lines --> 
-                        <b>Массовая доля жира 82%. В упаковке 200 гр. Срок годности: 180 дней</b></a> </div>
+                        <b>Массовая доля жира 82%. В упаковке 10 кг. Срок годности: 180 дней</b></a> </div>
                         <!-- end custom-link --> 
                       </div>
                       <!-- end inner --> 
