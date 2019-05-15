@@ -18,7 +18,10 @@
   <!-- end sound -->
   <div class="perspective" id="gl"  data-imageOriginal="images/lady.jpg"  data-imageDepth="images/lady-map.jpg"  data-horizontalThreshold="30"  data-verticalThreshold="13">
   	<div class="container">
-  		<h1 class="text-white">CANDY GOLD</h1>
+  		<!-- <h1 class="text-white">CANDY GOLD</h1> -->
+  		<div style="width: 100%" class="text-center">
+  			<img src="images/candy.png"></div>
+  		</div>
   	</div>
   	<!-- end container --> 
   </div>
@@ -45,7 +48,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -65,7 +68,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -85,7 +88,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -105,7 +108,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -124,7 +127,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -144,7 +147,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -163,7 +166,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -182,7 +185,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -201,7 +204,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -220,7 +223,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -239,7 +242,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -258,7 +261,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -277,7 +280,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -296,7 +299,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -315,7 +318,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -334,7 +337,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -353,7 +356,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -372,7 +375,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -391,7 +394,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -410,7 +413,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -429,7 +432,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -448,7 +451,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -467,7 +470,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 2.5 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -486,7 +489,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 2.5 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -505,7 +508,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 2.5 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -524,7 +527,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -543,7 +546,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -562,7 +565,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2.5 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -581,7 +584,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3.5 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -600,7 +603,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -619,7 +622,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 2.5 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -638,7 +641,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 6 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -657,7 +660,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 
@@ -676,7 +679,7 @@
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
 									<!-- end lines --> 
-									<b>ЧИТАТЬ ДАЛЬШЕ</b>
+									<b>срок годности 3 месяцев, вес 3 кг.</b>
 								</a>
 							</div>
 							<!-- end custom-link --> 

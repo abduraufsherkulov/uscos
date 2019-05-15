@@ -5,10 +5,7 @@
   </div>
   <!-- end video-bg -->
   <div class="container">
-    <!-- <h1 style="font-size: 5vw;">OLMOS</h1> -->
-    <div style="width: 100%" class="text-center">
-      <img src="images/olmos.png"></div>
-    </div>
+    <h1>СУХОФРУКТЫ</h1>
     <!-- <p>TO CREATE A POWERFUL PROJECT ONCE, A BIT OF LUCK IS ENOUGH</p> -->
   </div>
   <!-- end container -->
@@ -31,107 +28,112 @@
 </header>
 <!-- end header -->
 
-<!-- end services-content-block -->
 <section class="works">
   <div class="container">
     <div class="row">
       <div class="col-12 wow fadeIn">
         <!-- <h6>SMOOTH INTERFACE INTERACTION</h6> -->
-        <h2 data-text="Products">Наши выбранные продукты</h2>
+        <h2 data-text="Products">Our selected products</h2>
       </div>
       <!-- end col-12 -->
       <div class="col-12">
-
-        <div class="project-box wow fadeIn" data-bg="#ece6f4">
-          <figure> <a href="images/marg1.jpg" data-fancybox><img src="images/marg1.jpg" alt="Image"></a></figure>
+        <div class="project-box wow fadeIn" data-bg="#faf8ed">
+          <figure> <a href="../images/featured01.jpg" data-fancybox><img src="../images/featured01.jpg" alt="Image"></a></figure>
           <div class="content-box">
             <div class="inner"> 
               <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-              <h3><span>Жир</span>кондитерский</h3>
+              <h3><span>Golden</span>Raisins</h3>
               <div class="custom-link"> <a href="#">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
-                <b>В упаковке 20 кг. Срок годности: 180 дней</b></a> </div>
+                <b>The Giant blue raisin is also known as Kishmish grow exclusively in Uzbekistan. The USCOS takes the responsibility to supply the customers with the highest quality of this product. Made with heart at local farms from sunny Uzbekistan.</b></a> </div>
                 <!-- end custom-link --> 
               </div>
               <!-- end inner --> 
             </div>
             <!-- end content-box --> 
           </div>
+          <!-- end project-box -->
           <div class="project-box wow fadeIn" data-bg="#ece6f4">
-            <figure> <a href="images/marg2.jpg" data-fancybox><img src="images/marg2.jpg" alt="Image"></a></figure>
+            <figure> <a href="../images/featured02.jpg" data-fancybox><img src="../images/featured02.jpg" alt="Image"></a></figure>
             <div class="content-box">
               <div class="inner"> 
                 <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-                <h3><span>Маргарин </span>“Olmos”</h3>
+                <h3><span>Dried</span>Apricots</h3>
                 <div class="custom-link"> <a href="#">
                   <div class="lines"> <span></span> <span></span> </div>
                   <!-- end lines --> 
-                  <b>Массовая доля жира 62%. В упаковке 10 кг.   Срок годности: 180 дней</b></a> </div>
+                  <b>The highest grade, freshness, and original taste come with the apricots sources from Uzbekistan, Tajikistan, and Kyrgyzstan. Our dried apricots are the perfect solution to your snacking needs. Real fruit lovers and health-conscious will appreciate this natural source of potassium, vitamin A and E, mineral iron to boost the immune system, help blood production and maintaining healthy skin. </b></a> </div>
                   <!-- end custom-link --> 
                 </div>
                 <!-- end inner --> 
               </div>
               <!-- end content-box --> 
             </div>
-            <div class="project-box wow fadeIn" data-bg="#ece6f4">
-              <figure> <a href="images/marg3.jpg" data-fancybox><img src="images/marg3.jpg" alt="Image"></a></figure>
+            <!-- end project-box -->
+            <div class="project-box wow fadeIn" data-bg="#ebf8f3">
+              <figure> <a href="../images/featured03.jpg" data-fancybox><img src="../images/featured03.jpg" alt="Image"></a></figure>
               <div class="content-box">
                 <div class="inner"> 
                   <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-                  <h3><span>Маргарин </span>“Olmos”</h3>
+                  <h3><span>Sweet</span>Prunes</h3>
                   <div class="custom-link"> <a href="#">
                     <div class="lines"> <span></span> <span></span> </div>
                     <!-- end lines --> 
-                    <b>Массовая доля жира 72%. В упаковке 10 кг. Срок годности: 180 дней</b></a> </div>
+                    <b>Prunes are known for its antioxidants and nutrients content which makes it a delicious and healthy snack without sweeteners and preservatives. Dried plums are a plentiful source of dietary fiber which is essential for a healthy digestive system. </b></a> </div>
                     <!-- end custom-link --> 
                   </div>
                   <!-- end inner --> 
                 </div>
                 <!-- end content-box --> 
               </div>
+              <!-- end project-box --> 
+
               <div class="project-box wow fadeIn" data-bg="#ece6f4">
-                <figure> <a href="images/marg3.jpg" data-fancybox><img src="images/marg3.jpg" alt="Image"></a></figure>
+                <figure> <a href="../images/featured04.jpg" data-fancybox><img src="../images/featured04.jpg" alt="Image"></a></figure>
                 <div class="content-box">
                   <div class="inner"> 
                     <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-                    <h3><span>Маргарин </span>“Olmos”</h3>
+                    <h3><span>Dried</span>Mulberries</h3>
                     <div class="custom-link"> <a href="#">
                       <div class="lines"> <span></span> <span></span> </div>
                       <!-- end lines --> 
-                      <b>Массовая доля жира 82%. В упаковке 10 кг. Срок годности: 180 дней</b></a> </div>
+                      <b>Sourced from mulberry trees in Uzbekistan, Tajikistan the dried white mulberries are packed with antioxidants and are a great source of iron, protein, and calcium – perfect for a mid-afternoon snack when you’re in need of an energy boost. With less than half the amount of sugar as raisins and dried figs, our dried white mulberries are the perfect addition to homemade trail mix, added to baked goods, or even eaten alone as a snack. </b></a> </div>
                       <!-- end custom-link --> 
                     </div>
                     <!-- end inner --> 
                   </div>
                   <!-- end content-box --> 
                 </div>
-                <div class="project-box wow fadeIn" data-bg="#ece6f4">
-                  <figure> <a href="images/margg.png" data-fancybox><img src="images/margg.png" alt="Image"></a></figure>
+
+                <div class="project-box wow fadeIn" data-bg="#ebf8f3">
+                  <figure> <a href="../images/featured05.jpg" data-fancybox><img src="../images/featured05.jpg" alt="Image"></a></figure>
                   <div class="content-box">
                     <div class="inner"> 
-                      <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-                      <h3><span>Маргарин </span>“Olmos”</h3>
+                      <!--  <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
+                      <h3><span>Sweet</span>Almonds</h3>
                       <div class="custom-link"> <a href="#">
                         <div class="lines"> <span></span> <span></span> </div>
                         <!-- end lines --> 
-                        <b>Массовая доля жира 82%. В упаковке 200 гр. Срок годности: 180 дней</b></a> </div>
+                        <b>Almonds are one of the most popular nuts, with good reason. Not only do they have a delicious flavor and delightful crunch that pairs well with both sweet and savory foods, but they’re also packed with vitamins and nutrients. With healthy fats, protein, and fiber, these make a great mid-afternoon snack to keep you energized, and they also are known to lower blood sugar, cholesterol, and blood pressure. </b></a> </div>
                         <!-- end custom-link --> 
                       </div>
                       <!-- end inner --> 
                     </div>
                     <!-- end content-box --> 
                   </div>
+                  <!-- end project-box --> 
+
                   <div class="project-box wow fadeIn" data-bg="#ece6f4">
-                    <figure> <a href="images/marg6.jpg" data-fancybox><img src="images/marg6.jpg" alt="Image"></a></figure>
+                    <figure> <a href="../images/featured06.jpg" data-fancybox><img src="../images/featured06.jpg" alt="Image"></a></figure>
                     <div class="content-box">
                       <div class="inner"> 
                         <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-                        <h3><span>Маргарин </span>“Olmos”</h3>
+                        <h3><span>Paper Shell </span>Almonds</h3>
                         <div class="custom-link"> <a href="#">
                           <div class="lines"> <span></span> <span></span> </div>
                           <!-- end lines --> 
-                          <b>Массовая доля жира 72%. В упаковке 10 кг. Срок годности: 180 дней</b></a> </div>
+                          <b>Softshell almonds originated from the wild and remote mountains of Uzbekistan. Here the optimal environment is found at the Central Asian landscape that creates shelter from winds mixed with dry climates and arable soil. Paper shell almonds are longed-for its sweetish and delicate taste, which makes this nut delicious and nutritious supplement to the healthy diet.</b></a> </div>
                           <!-- end custom-link --> 
                         </div>
                         <!-- end inner --> 
@@ -145,5 +147,4 @@
               </div>
               <!-- end container --> 
             </section>
-            <!-- end works -->
             <?php include 'footer.php'; ?>

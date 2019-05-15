@@ -146,6 +146,14 @@ a bit of luck is enough.</h4> -->
 						<a href="candy.php">CONFECTIONERY PRODUCTS</a>
 					</div>
 					<!-- end right --> 
+					<div class="text-center pt-5">
+						<a href="candygold.php">
+							<img src="../images/candy.png" style="width: 50%">
+						</a>
+						<a href="baker.php">
+							<img src="../images/baker.png" style="width: 50%">
+						</a>
+					</div>
 				</div>
 				<!-- end content-box --> 
 			</div>
@@ -158,6 +166,14 @@ a bit of luck is enough.</h4> -->
 						<h4>FOOD AND NON-FOOD PRODUCTS</h4>
 					</div>
 					<!-- end right --> 
+					<div class="text-center pt-3 d-inline-block">
+						<a href="eden.php">
+							<img src="../images/eden.png" style="width: 50%">
+						</a>
+						<a href="olmos.php">
+							<img src="../images/olmos.png" style="width: 50%; margin-top: 50px;">
+						</a>
+					</div>
 				</div>
 				<!-- end content-box --> 
 			</div>
@@ -180,181 +196,29 @@ a bit of luck is enough.</h4> -->
 	<!-- end container --> 
 </section>
 <!-- end services-content-block -->
-<section class="works">
+
+<section class="work-with-us">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
-				<!-- <h6>SMOOTH INTERFACE INTERACTION</h6> -->
-				<h2 data-text="Products">Our selected products</h2>
+				<h6>START WORKING WITH US</h6>
+				<h2 data-text="Hire us">Great things in business are never done by one person. They're done by a team of people. </h2>
 			</div>
 			<!-- end col-12 -->
-			<div class="col-12">
-				<div class="project-box wow fadeIn" data-bg="#faf8ed">
-					<figure> <a href="../images/featured01.jpg" data-fancybox><img src="../images/featured01.jpg" alt="Image"></a></figure>
-					<div class="content-box">
-						<div class="inner"> 
-							<!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-							<h3><span>Golden</span>Raisins</h3>
-							<div class="custom-link"> <a href="#">
-								<div class="lines"> <span></span> <span></span> </div>
-								<!-- end lines --> 
-								<b>LEARN MORE</b></a> </div>
-								<!-- end custom-link --> 
-							</div>
-							<!-- end inner --> 
-						</div>
-						<!-- end content-box --> 
-					</div>
-					<!-- end project-box -->
-					<div class="project-box wow fadeIn" data-bg="#ece6f4">
-						<figure> <a href="../images/featured02.jpg" data-fancybox><img src="../images/featured02.jpg" alt="Image"></a></figure>
-						<div class="content-box">
-							<div class="inner"> 
-								<!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-								<h3><span>Dried</span>Apricots</h3>
-								<div class="custom-link"> <a href="#">
-									<div class="lines"> <span></span> <span></span> </div>
-									<!-- end lines --> 
-									<b>LEARN MORE</b></a> </div>
-									<!-- end custom-link --> 
-								</div>
-								<!-- end inner --> 
-							</div>
-							<!-- end content-box --> 
-						</div>
-						<!-- end project-box -->
-						<div class="project-box wow fadeIn" data-bg="#ebf8f3">
-							<figure> <a href="../images/featured03.jpg" data-fancybox><img src="../images/featured03.jpg" alt="Image"></a></figure>
-							<div class="content-box">
-								<div class="inner"> 
-									<!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-									<h3><span>Sweet</span>Prunes</h3>
-									<div class="custom-link"> <a href="#">
-										<div class="lines"> <span></span> <span></span> </div>
-										<!-- end lines --> 
-										<b>LEARN MORE</b></a> </div>
-										<!-- end custom-link --> 
-									</div>
-									<!-- end inner --> 
-								</div>
-								<!-- end content-box --> 
-							</div>
-							<!-- end project-box --> 
+			<div class="col-lg-5 col-md-8 wow fadeIn">
+				<!-- 											<h4>Do you have a project opportunity, or are you just a looking to get creative solutions?</h4> -->
+				<div class="custom-link wow fadeIn"> <a href="#">
+					<div class="lines"> <span></span> <span></span> </div>
+					<!-- end lines --> 
+					<b>Steve Jobs</b></a> </div>
+					<!-- end custom-link --> 
+				</div>
+				<!-- end col-5 --> 
+			</div>
+			<!-- end row --> 
+		</div>
+		<!-- end container --> 
+	</section>
+	<!-- end work-with-us -->
 
-							<div class="project-box wow fadeIn" data-bg="#ece6f4">
-								<figure> <a href="../images/featured04.jpg" data-fancybox><img src="../images/featured04.jpg" alt="Image"></a></figure>
-								<div class="content-box">
-									<div class="inner"> 
-										<!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-										<h3><span>Dried</span>Mulberries</h3>
-										<div class="custom-link"> <a href="#">
-											<div class="lines"> <span></span> <span></span> </div>
-											<!-- end lines --> 
-											<b>LEARN MORE</b></a> </div>
-											<!-- end custom-link --> 
-										</div>
-										<!-- end inner --> 
-									</div>
-									<!-- end content-box --> 
-								</div>
-
-								<div class="project-box wow fadeIn" data-bg="#ebf8f3">
-									<figure> <a href="../images/featured05.jpg" data-fancybox><img src="../images/featured05.jpg" alt="Image"></a></figure>
-									<div class="content-box">
-										<div class="inner"> 
-											<!-- 	<small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-											<h3><span>Sweet</span>Almonds</h3>
-											<div class="custom-link"> <a href="#">
-												<div class="lines"> <span></span> <span></span> </div>
-												<!-- end lines --> 
-												<b>LEARN MORE</b></a> </div>
-												<!-- end custom-link --> 
-											</div>
-											<!-- end inner --> 
-										</div>
-										<!-- end content-box --> 
-									</div>
-									<!-- end project-box --> 
-
-									<div class="project-box wow fadeIn" data-bg="#ece6f4">
-										<figure> <a href="../images/featured06.jpg" data-fancybox><img src="../images/featured06.jpg" alt="Image"></a></figure>
-										<div class="content-box">
-											<div class="inner"> 
-												<!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-												<h3><span>Paper Shell </span>Almonds</h3>
-												<div class="custom-link"> <a href="#">
-													<div class="lines"> <span></span> <span></span> </div>
-													<!-- end lines --> 
-													<b>LEARN MORE</b></a> </div>
-													<!-- end custom-link --> 
-												</div>
-												<!-- end inner --> 
-											</div>
-											<!-- end content-box --> 
-										</div>
-									</div>
-									<!-- end col-12 --> 
-								</div>
-								<!-- end row --> 
-							</div>
-							<!-- end container --> 
-						</section>
-						<!-- end works -->
-						<section class="work-with-us">
-							<div class="container">
-								<div class="row">
-									<div class="col-12 wow fadeIn">
-										<h6>START WORKING WITH US</h6>
-										<h2 data-text="Hire us">Great things in business are never done by one person. They're done by a team of people. </h2>
-									</div>
-									<!-- end col-12 -->
-									<div class="col-lg-5 col-md-8 wow fadeIn">
-										<!-- 											<h4>Do you have a project opportunity, or are you just a looking to get creative solutions?</h4> -->
-										<div class="custom-link wow fadeIn"> <a href="#">
-											<div class="lines"> <span></span> <span></span> </div>
-											<!-- end lines --> 
-											<b>Steve Jobs</b></a> </div>
-											<!-- end custom-link --> 
-										</div>
-										<!-- end col-5 --> 
-									</div>
-									<!-- end row --> 
-								</div>
-								<!-- end container --> 
-							</section>
-							<!-- end work-with-us -->
-							<section class="clients">
-								<div class="container">
-									<div class="row">
-										<div class="col-lg-5 wow fadeIn">
-											<h6>START WORKING WITH US</h6>
-											<h2>Our clients</h2>
-											<h4>Do you want to export/import but you do not know how to do it?</h4>
-											<div class="custom-link wow fadeIn"> <a href="contact_us.php">
-												<div class="lines"> <span></span> <span></span> </div>
-												<!-- end lines --> 
-												<b>BE OUR CLIENT</b></a> </div>
-												<!-- end custom-link --> 
-											</div>
-											<!-- end col-4 -->
-											<div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
-												<ul>
-													<li><img src="../images/logo01.png" alt="Image"><small>OLMOS</small></li>
-													<li><img src="../images/logo02.png" alt="Image"><small>CANDY GOLD</small></li>
-													<li><img src="../images/logo01.png" alt="Image"><small>BAKER STREET</small></li>
-													<li><img src="../images/logo01.png" alt="Image"><small>COKE</small></li>
-													<li><img src="../images/logo01.png" alt="Image"><small>FANTA</small></li>
-													<li><img src="../images/logo01.png" alt="Image"><small>AKFA</small></li>
-													<li><img src="../images/logo01.png" alt="Image"><small>LADA</small></li>
-													<li><img src="../images/logo01.png" alt="Image"><small>GM</small></li>
-												</ul>
-											</div>
-											<!-- end col-7 --> 
-										</div>
-										<!-- end row --> 
-									</div>
-									<!-- end container --> 
-								</section>
-								<!-- end clients -->
-
-								<?php include 'footer.php'; ?>
+	<?php include 'footer.php'; ?>
