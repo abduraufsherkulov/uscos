@@ -128,7 +128,7 @@ a bit of luck is enough.</h4> -->
 <!-- end intro -->
 <section class="services-content-block">
 	<div class="video-bg">
-		<video src="videos/video.mp4" muted loop autoplay></video>
+		<video src="../videos/video.mp4" muted loop autoplay></video>
 	</div>
 	<!-- end video-bg -->
 	<div class="container">
@@ -340,7 +340,7 @@ a bit of luck is enough.</h4> -->
 											<div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
 												<ul>
 													<li><img src="../images/logo01.png" alt="Image"><small>OLMOS</small></li>
-													<li><img src="../images/logo01.png" alt="Image"><small>EDEN</small></li>
+													<li><img src="../images/logo02.png" alt="Image"><small>CANDY GOLD</small></li>
 													<li><img src="../images/logo01.png" alt="Image"><small>BAKER STREET</small></li>
 													<li><img src="../images/logo01.png" alt="Image"><small>COKE</small></li>
 													<li><img src="../images/logo01.png" alt="Image"><small>FANTA</small></li>

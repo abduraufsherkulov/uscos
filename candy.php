@@ -671,7 +671,7 @@
 					<div class="content-box">
 						<div class="inner">
 							<!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-							<h3><span>ПКрупяные палочки</span>«Рохат»</h3>
+							<h3><span>Крупяные палочки</span>«Рохат»</h3>
 							<div class="custom-link">
 								<a href="#">
 									<div class="lines"> <span></span> <span></span> </div>
