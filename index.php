@@ -146,6 +146,14 @@ a bit of luck is enough.</h4> -->
 						<a href="candy.php">КОНДИТЕРСКИЕ ИЗДЕЛИЯ</a>
 					</div>
 					<!-- end right --> 
+					<div class="text-center pt-5">
+						<a href="candygold.php">
+							<img src="images/candy.png" style="width: 50%">
+						</a>
+						<a href="baker.php">
+							<img src="images/baker.png" style="width: 50%">
+						</a>
+					</div>
 				</div>
 				<!-- end content-box --> 
 			</div>
@@ -158,6 +166,15 @@ a bit of luck is enough.</h4> -->
 						<a href="food.php">ПИЩЕВЫЕ И НЕПРОДОВОЛЬСТВЕННЫЕ ТОВАРЫ</a>
 					</div>
 					<!-- end right --> 
+
+					<div class="text-center pt-3 d-inline-block">
+						<a href="eden.php">
+							<img src="images/eden.png" style="width: 50%">
+						</a>
+						<a href="olmos.php">
+							<img src="images/olmos.png" style="width: 50%; margin-top: 50px;">
+						</a>
+					</div>
 				</div>
 				<!-- end content-box --> 
 			</div>
