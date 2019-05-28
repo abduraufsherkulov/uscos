@@ -143,7 +143,7 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>01</small></div>
 					<!-- end left -->
 					<div class="right">
-						<a href="#">КОНДИТЕРСКИЕ ИЗДЕЛИЯ</a>
+						<h4>КОНДИТЕРСКИЕ ИЗДЕЛИЯ</h4>
 					</div>
 					<!-- end right --> 
 					<div class="text-center pt-5">
@@ -163,7 +163,7 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>02</small></div>
 					<!-- end left -->
 					<div class="right">
-						<a href="#">ПИЩЕВЫЕ И НЕПРОДОВО-<br>ЛЬСТВЕННЫЕ ТОВАРЫ</a>
+						<h4>ПИЩЕВЫЕ И НЕПРОДОВО-<br>ЛЬСТВЕННЫЕ ТОВАРЫ</h4>
 					</div>
 					<!-- end right --> 
 
@@ -195,7 +195,7 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>04</small></div>
 					<!-- end left -->
 					<div class="right">
-						<a href="dried.php">Безалкогольные напитки</a>
+						<h4>Безалкогольные напитки</h4>
 					</div>
 					<div class="text-center pt-3 d-inline-block">
 						<a href="drinks.php">
