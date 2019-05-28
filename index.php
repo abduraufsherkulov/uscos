@@ -184,7 +184,12 @@ a bit of luck is enough.</h4> -->
 					<div class="left"><small>03</small></div>
 					<!-- end left -->
 					<div class="right">
-						<a href="dried.php">СУХОФРУКТЫ</a>
+						<h4>СУХОФРУКТЫ</h4>
+					</div>
+					<div class="text-center pt-3 d-inline-block">
+						<a href="dried.php">
+							<img src="images/dried.jpg" style="width: 50%">
+						</a>
 					</div>
 					<!-- end right --> 
 				</div>
