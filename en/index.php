@@ -138,9 +138,9 @@ a bit of luck is enough.</h4> -->
 				<h2>Our product list includes:</h2>
 			</div>
 			<!-- end col-12 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0s">
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0s">
 				<div class="content-box">
-					<div class="left"><small>01</small><span></span></div>
+					<div class="left"><small>01</small></div>
 					<!-- end left -->
 					<div class="right">
 						<a href="candy.php">CONFECTIONERY PRODUCTS</a>
@@ -158,9 +158,9 @@ a bit of luck is enough.</h4> -->
 				<!-- end content-box --> 
 			</div>
 			<!-- end col-4 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0.05s">
 				<div class="content-box">
-					<div class="left"><small>02</small><span></span></div>
+					<div class="left"><small>02</small></div>
 					<!-- end left -->
 					<div class="right">
 						<h4>FOOD AND NON-FOOD PRODUCTS</h4>
@@ -178,12 +178,31 @@ a bit of luck is enough.</h4> -->
 				<!-- end content-box --> 
 			</div>
 			<!-- end col-4 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0.10s">
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0.10s">
 				<div class="content-box">
-					<div class="left"><small>03</small><span></span></div>
+					<div class="left"><small>03</small></div>
 					<!-- end left -->
 					<div class="right">
-						<h4>DRIED FRUITS</h4>
+						<a href="dried.php">DRIED FRUITS</a>
+					</div>
+					<!-- end right --> 
+				</div>
+				<!-- end content-box --> 
+			</div>
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0.10s">
+				<div class="content-box">
+					<div class="left"><small>04</small></div>
+					<!-- end left -->
+					<div class="right">
+						<h4>SOFT DRINKS</h4>
+					</div>
+					<div class="text-center pt-3 d-inline-block">
+						<a href="drinks.php">
+							<img src="../images/aloe.png" style="width: 50%">
+						</a>
+						<a href="ayran.php">
+							<img src="../images/ayran.png" style="width: 50%; margin-top: 50px;">
+						</a>
 					</div>
 					<!-- end right --> 
 				</div>

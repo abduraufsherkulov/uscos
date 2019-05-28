@@ -39,11 +39,11 @@
       <!-- end col-12 -->
       <div class="col-12">
         <div class="project-box wow fadeIn" data-bg="#faf8ed">
-          <figure> <a href="images/featured01.jpg" data-fancybox><img src="images/featured01.jpg" alt="Image"></a></figure>
+          <figure> <a href="images/featured01.jpg" data-fancybox><img src="images/featured01.jpeg" alt="Image"></a></figure>
           <div class="content-box">
             <div class="inner">
               <!-- <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small> -->
-              <h3><span>Золотой гигантский </span>Изюм</h3>
+              <h3><span>Голубой гигантский </span>Изюм</h3>
               <div class="custom-link"> <a href="#">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 

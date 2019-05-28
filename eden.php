@@ -7,7 +7,7 @@
   <div class="container">
     <!-- <h1 style="font-size: 5vw;">EDEN</h1> -->
     <div style="width: 100%" class="text-center">
-      <img src="../images/eden.png"></div>
+      <img src="./images/eden.png"></div>
     </div>
     <!-- <p>TO CREATE A POWERFUL PROJECT ONCE, A BIT OF LUCK IS ENOUGH</p> -->
   </div>

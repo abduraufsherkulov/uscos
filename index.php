@@ -138,12 +138,12 @@ a bit of luck is enough.</h4> -->
 				<h2>Наш список продуктов включает в себя:</h2>
 			</div>
 			<!-- end col-12 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0s">
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0s">
 				<div class="content-box">
-					<div class="left"><small>01</small><span></span></div>
+					<div class="left"><small>01</small></div>
 					<!-- end left -->
 					<div class="right">
-						<a href="candy.php">КОНДИТЕРСКИЕ ИЗДЕЛИЯ</a>
+						<a href="#">КОНДИТЕРСКИЕ ИЗДЕЛИЯ</a>
 					</div>
 					<!-- end right --> 
 					<div class="text-center pt-5">
@@ -158,12 +158,12 @@ a bit of luck is enough.</h4> -->
 				<!-- end content-box --> 
 			</div>
 			<!-- end col-4 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0.05s">
 				<div class="content-box">
-					<div class="left"><small>02</small><span></span></div>
+					<div class="left"><small>02</small></div>
 					<!-- end left -->
 					<div class="right">
-						<a href="food.php">ПИЩЕВЫЕ И НЕПРОДОВОЛЬСТВЕННЫЕ ТОВАРЫ</a>
+						<a href="#">ПИЩЕВЫЕ И НЕПРОДОВО-<br>ЛЬСТВЕННЫЕ ТОВАРЫ</a>
 					</div>
 					<!-- end right --> 
 
@@ -179,12 +179,31 @@ a bit of luck is enough.</h4> -->
 				<!-- end content-box --> 
 			</div>
 			<!-- end col-4 -->
-			<div class="col-md-4 wow fadeIn" data-wow-delay="0.10s">
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0.10s">
 				<div class="content-box">
-					<div class="left"><small>03</small><span></span></div>
+					<div class="left"><small>03</small></div>
 					<!-- end left -->
 					<div class="right">
 						<a href="dried.php">СУХОФРУКТЫ</a>
+					</div>
+					<!-- end right --> 
+				</div>
+				<!-- end content-box --> 
+			</div>
+			<div class="col-md-3 wow fadeIn" data-wow-delay="0.10s">
+				<div class="content-box">
+					<div class="left"><small>04</small></div>
+					<!-- end left -->
+					<div class="right">
+						<a href="dried.php">Безалкогольные напитки</a>
+					</div>
+					<div class="text-center pt-3 d-inline-block">
+						<a href="drinks.php">
+							<img src="images/aloe.png" style="width: 50%">
+						</a>
+						<a href="ayran.php">
+							<img src="images/ayran.png" style="width: 50%; margin-top: 50px;">
+						</a>
 					</div>
 					<!-- end right --> 
 				</div>
