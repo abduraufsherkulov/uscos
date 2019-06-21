@@ -128,7 +128,7 @@ a bit of luck is enough.</h4> -->
     <div class="row no-gutters">
       <div class="col-12 wow fadeIn">
         <!-- <h6>SMOOTH INTERFACE INTERACTION</h6> -->
-        <h2 data-text="Почему">Почему стоит выбрать USCIS?</h2>
+        <h2 data-text="Почему">Почему стоит выбрать USCOS?</h2>
       </div>
       <!-- end col-12 -->
       <div class="col-md-12 wow fadeIn text-left" data-wow-delay="0s"> <ul class="list-unstyled"> 
