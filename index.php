@@ -26,8 +26,8 @@
 							<!-- <h6>Transitions for a collected experiences</h6> -->
 						</div>
 						<!-- end tagline -->
-						<h1>Дистрибутция<br>
-							<span>Високого Уровня</span></h1>
+						<h1>Дистрибуция<br>
+							<span>Высокого Уровня</span></h1>
 <!-- 							<div class="slide-btn"> <a href="#">
 								<div class="lines"> <span></span> <span></span> </div>
 								<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
